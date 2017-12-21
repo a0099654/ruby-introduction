@@ -15,4 +15,4 @@ print "What's your city name?"
 city = gets.chomp
 city.upcase!
 
-puts "Your name is #{first_name} #{last_name}. You are a city call #{city}"
+puts "Your name is #{first_name} #{last_name}. You are a city call #{city}" 
